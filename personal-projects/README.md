@@ -26,7 +26,7 @@ I beleive my Barbeque feedback app aligns with these competencies due to the fac
  # Setup 
  To run this project: 
  * Add your DATABASE URI in (app.py) and your mail params in (send_mail.py)
- # Install dependicies 
+ # Install dependencies 
  * pipenv shell 
  * pipenv install 
 
