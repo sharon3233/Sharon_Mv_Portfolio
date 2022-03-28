@@ -10,7 +10,8 @@ I beleive my Barbeque feedback app aligns with these competencies due to the fac
 # Introduction
  Using Python and Flask I created a Web application where users can upload images, give ratiings and feedback on their favorite food from the top 5 Barbeque Restaurants in Texas.  The homepage of this website loads a dashboard of all the uploaded photos. On sucessful upload, a new photo appears at the 1st tile, shifting all the other photos by 1 position.  The Displays is set to only accept certain image formats - jpg, jpeg, and png. Users are able to upload images that can be viewed through the front-end. User can by choice can submit a form with thier feeback, the submission forms are then sent to the business owners via eamil to review. 
 
- # DEMO  // TBD 
+ # DEMO  
+ https://github.com/sharon3233/Python_Flask_2/blob/main/Demo/BBQ_Demo.gif
 
  # Technologies 
  * JavaScript
