@@ -1,7 +1,7 @@
 # BBQ FeedBack App
 
 
-# Competeencies 
+# Competencies 
 J.F 1.6: Shows curiosity and tenaity to the business context in which the solution will be used to improve methods and maximise performance. 
 J.F 3.3: Understands how to develop effective user interfaces.
 
@@ -36,7 +36,4 @@ J.F 3.3: Understands how to develop effective user interfaces.
  # Serve on:
 http://localhost:5000
 
-
-
- 
 

@@ -3,9 +3,11 @@
 <html lang="en">
 
 <head>
-  <title>Feedback</title>
+  <title>Barbeque Reviews</title>
   <!--<meta charset="utf-8">-->
   <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css') }}">
   <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>-->
@@ -77,7 +79,7 @@
 
   <div
     style="background-color: #630909;color: white;text-align: center;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;">
-    <p id="paragraph">My Favorite Restaurants in Texas</p>
+    <p id="paragraph">Upload your favorite Barbeque Dish</p>
   </div>
 
 
@@ -106,6 +108,7 @@
     {% endif %}
     {% endfor %}
   </div>
+  <a href="/form" id="form">Give Feedback</a>
   <div
     style="   position: fixed;left: 0;bottom: 0;width: 100%;background-color:#630909;color: white;text-align: center;">
     Retaurant Reviews - 2022

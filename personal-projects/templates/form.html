@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>Please rate your restaurant</title>
+        <link rel="stylesheet" href="../static/styles/styles.css">
+    </head>
+    <body>
+        <div class="container"> 
+            <img src=>
+           {% if message %}
+           <p class="message">{{ message | safe }}</p>
+           {% endif %}
+            <form action='/submit' method="POST">
+                <div class="form-group">
+                    <h3>Customer Name</h3>
+                    <input
+                    type="text"
+                    name="customer"
+                    placeholder="Name of Customer"
+                    />
+                </div>
+                <div class="form-group">
+                    <h3>Top 5 Barbeque Restaurants</h3>
+                    <select name="restaurant">
+                      <option value="">Select Restaurant</option>
+                      <option value="Slow Bone BBQ">Slow Bone BBQ</option>
+                      <option value="Hard Eight BBQ">Hard Eight BBQ</option>
+                      <option value="Texas Best BBQ">Texas Best BBQ</option>
+                      <option value="Off the Bone Barbeque">Off the Bone Barbeque</option>
+                      <option value="Spring Creek Barbeque">Spring Creek Barbeque</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <h3>Please rate your Restaurant</h3>
+                    <input type="radio" name="rating" value="1" /> 1
+                    <input type="radio" name="rating" value="2" /> 2
+                    <input type="radio" name="rating" value="3" /> 3
+                    <input type="radio" name="rating" value="4" /> 4
+                    <input type="radio" name="rating" value="5" /> 5
+                    <input type="radio" name="rating" value="6" /> 6
+                    <input type="radio" name="rating" value="7" /> 7
+                    <input type="radio" name="rating" value="8" /> 8
+                    <input type="radio" name="rating" value="9" /> 9
+                    <input type="radio" name="rating" value="10" checked /> 10
+                  </div>
+                  <div class="form-group">
+                    <h3>Comments about your experience</h3>
+                    <textarea
+                      name="comments"
+                      id=""
+                      cols="30"
+                      rows="10"
+                      placeholder="Tell us about your favoite dish"
+                    ></textarea>
+                  </div>
+                  <input type="submit" value="submit" class="btn" />
+                </form>
+              </div>
+
+            </form>
+        </div>
+    </body>
+
+
+</html>
+
+
+
+
+
+
