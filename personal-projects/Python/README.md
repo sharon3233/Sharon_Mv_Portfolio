@@ -1,5 +1,5 @@
 # BBQ FeedBack App
-
+With this feedback app, I want to give customers the opportunity to share their experience at their favorite barbeque restaurant because their opinion matters. In turn I also want the restaurant owners to view the feedback submissions to help identify common requests. 
 
 # Competencies 
 J.F 1.6: Shows curiosity and tenaity to the business context in which the solution will be used to improve methods and maximise performance. 
