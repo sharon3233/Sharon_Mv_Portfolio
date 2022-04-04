@@ -27,6 +27,16 @@ I beleive my Barbeque feedback app aligns with these competencies due to the fac
  # Setup 
  To run this project: 
  * Add your DATABASE URI in (app.py) and your mail params in (send_mail.py)
+
+ # Features
+ * Photo Uploader 
+ * Rating Scale 
+ * Feedback Form 
+ 
+ # To-do/Strech goals
+ * Video Uploader 
+ * Deploy with Heroku 
+ 
  # Install dependencies 
  * pipenv shell 
  * pipenv install 
