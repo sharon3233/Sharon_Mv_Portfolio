@@ -14,7 +14,16 @@ https://github.com/sharon3233/Sharon_Portfolio_MV/blob/main/misc/Verizon-Hackath
 
 
 # Compentencies
-This chore reminder app was built by several of us. We all contributed effectively by creating user stories based off our personal experiences when it comes to completing chores. Collectivley as a team we were able to combine usecases to create fuctionality for each component. We created this simple software design because we wanted to give a possible solution to a common problem. This app communicates effectively to all audiences and passed with a 100% accessibility rate.(Please refer to Demo folder to view our teams presentation-slide) 
+* JF 1.5
+Knows how teams work effectively to produce software and how to contribute appropriately
+* JF 2.2
+Understands how to create and analyze artifacts, such as use cases and/or user stories
+* JF 3.4
+Able to create simple software designs to effectively communicate an understanding of the program
+* JF 6.1
+Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences
+
+* This chore reminder app was built by several of us. We all contributed effectively by creating user stories based off our personal experiences when it comes to completing chores. Collectivley as a team we were able to combine usecases to create fuctionality for each component. We created this simple software design because we wanted to give a possible solution to a common problem. This app communicates effectively to all audiences and passed with a 100% accessibility rate.(Please refer to Demo folder to view our teams presentation-slide) 
 
 # Features
 *
