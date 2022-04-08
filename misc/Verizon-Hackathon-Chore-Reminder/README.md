@@ -10,6 +10,7 @@ To ensure accessiblity for all of our users we implemented Goodle Chrome Screen 
 https://react-chore-bot.herokuapp.com/
 
 # Demo of presentation-slide 
+https://github.com/sharon3233/Sharon_Portfolio_MV/blob/main/misc/Verizon-Hackathon-Chore-Reminder/Demos/presentation-slide.gif
 
 
 # Compentencies
