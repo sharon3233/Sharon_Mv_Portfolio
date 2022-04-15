@@ -3,7 +3,7 @@ Chore Reminder App
 ## Table of Content 
 * [Introduction](#Introduction)
 * [Decription](#Decription)
-* [Demo](#Deployed App)
+* [Demo](#Deployed_App)
 * [Presentation](#Presentation-slide)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
@@ -15,7 +15,7 @@ With limited resources, time and using our best practices of working in an Aglie
 ## Decription 
 To ensure accessiblity for all of our users we implemented Goodle Chrome Screen Reader. The home page of this chore reminder app compiles a list of chores due as they are added by the user. The "Add Chore" button (with sound effects) prompts the user to input the name of their chore, the date they wish to complete their chore, the time they want to be reminded to start their chore and an image of their chore. Notifications are sent to the user for each chore reminder that they set.  Users are also able to remove a completed chore by clicking the 'x' next to the completed chore. This app also allows has the added benefit of allowing a user to download their chore list on any device.  
 
-## Deployed App
+## Deployed_App
 https://react-chore-bot.herokuapp.com/
 
 ## Presentation-slide 
