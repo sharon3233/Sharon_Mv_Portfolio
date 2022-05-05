@@ -1,4 +1,5 @@
 # BBQ FeedBack App
+* README LINK: https://github.com/sharon3233/Sharon_Portfolio_MV/tree/main/personal-projects/Python-Flask-BBQ-APP
 
 # Introduction
 With this feedback app, I wanted to give customers the opportunity to share their experience at their favorite barbeque restaurant. In turn I also wanted the restaurant owners to view the feedback submissions to help identify common requests. 
