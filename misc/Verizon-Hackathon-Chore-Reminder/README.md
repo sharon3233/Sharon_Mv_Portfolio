@@ -5,9 +5,11 @@ Chore Reminder App
 * [Decription](#Decription)
 * [Demo](#Deployed_App)
 * [Presentation](#Presentation-slide)
+* [Compentencies](#Compentencies)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 * [Features](#Features)
+* [Stretch_Goals](#To-do/Stretch Goals)
 * [Contributors](#Contributors)
 
 ## Intoduction 
