@@ -1,5 +1,5 @@
 # Chore Reminder App
-* ReadME Link: https://github.com/sharon3233/Sharon_Portfolio_MV/tree/main/misc/Verizon-Hackathon-Chore-Reminder
+* ReadME Link: https://github.com/sharon3233/Sharon_Portfolio_MV/tree/main/misc/Verizon-Hackathon-Project/Chore-Reminder-App
 
 ## Table of Content 
 * [Introduction](#Introduction)
