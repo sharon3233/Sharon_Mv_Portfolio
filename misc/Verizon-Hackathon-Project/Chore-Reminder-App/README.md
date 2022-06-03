@@ -12,6 +12,7 @@
 * [Features](#Features)
 * [Stretch_Goals](#To-do/Stretch Goals)
 * [Contributors](#Contributors)
+* [View GitHub pages](#GitHub_Pages)
 
 ## Intoduction 
 With limited resources, time and using our best practices of working in an Aglie enviornment, we wanted to give users the opportunity to keep track of their chores on day to day basis so we created a very reliable chore reminder app. 
@@ -20,6 +21,9 @@ To ensure accessiblity for all of our users we implemented Goodle Chrome Screen 
 
 ## Deployed_App
 https://react-chore-bot.herokuapp.com/
+
+## GitHub_Pages link
+https://github.com/DamonCrutchfield/code-linguists-chore-bot
 
 ## Presentation-slide 
 https://github.com/sharon3233/Sharon_Portfolio_MV/blob/main/misc/Verizon-Hackathon-Chore-Reminder/Demos/presentation-slide.gif

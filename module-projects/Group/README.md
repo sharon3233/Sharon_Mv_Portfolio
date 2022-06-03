@@ -13,7 +13,7 @@
 * [Best_Practices](#Best_Practices)
 * [Team_Constitution](Team_Constitution)
 * [Contributors](#Contributors)
-* [View GitHub pages(#GitHub_Pages)]
+* [View GitHub pages](#GitHub_Pages)
 
 ## Intoduction 
 Standing by our teams constitution and using our best practices, we built this Inventory to showcase personal items that we would like to sale for reasonable prices.
