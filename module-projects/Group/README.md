@@ -13,6 +13,7 @@
 * [Best_Practices](#Best_Practices)
 * [Team_Constitution](Team_Constitution)
 * [Contributors](#Contributors)
+* [View GitHub pages(#GitHub_Pages)]
 
 ## Intoduction 
 Standing by our teams constitution and using our best practices, we built this Inventory to showcase personal items that we would like to sale for reasonable prices.
@@ -27,6 +28,9 @@ Our Brilliant Bananas Inventory App has 4 Warehouses. Each warehouse displays a 
 - https://murmuring-chamber-30533.herokuapp.com/
 
 - https://brilliant-bananas-project.herokuapp.com/
+
+## GitHub_Pages link
+-https://github.com/sharon3233/Brilliant-Bananas-Project
 
 ## Compentencies
 * JF 1.5
