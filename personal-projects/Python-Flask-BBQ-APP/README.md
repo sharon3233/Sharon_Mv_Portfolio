@@ -4,11 +4,13 @@
 # Introduction
 With this feedback app, I wanted to give customers the opportunity to share their experience at their favorite barbeque restaurant. In turn I also wanted the restaurant owners to view the feedback submissions to help identify common requests. 
 
+* Description
+ Using Python and Flask I created a Web application where users can share images, give ratings and feedback on their favorite barbeque dishes.The homepage of this website loads a dashboard of all the uploaded photos. On sucessful upload, a new photo appears at the 1st tile, shifting all the other photos by 1 position.  The Displays is set to only accept certain image formats - jpg, jpeg, and png. Users are able to upload images that can be viewed through the front-end. User by choice can submit a form with thier feeback, the submission forms are then sent to the business owners via eamil to review. 
+
  # DEMO  
  https://github.com/sharon3233/Python_Flask_2/blob/main/Demo/BBQ_Demo.gif
 
-* Description
- Using Python and Flask I created a Web application where users can share images, give ratings and feedback on their favorite barbeque dishes.The homepage of this website loads a dashboard of all the uploaded photos. On sucessful upload, a new photo appears at the 1st tile, shifting all the other photos by 1 position.  The Displays is set to only accept certain image formats - jpg, jpeg, and png. Users are able to upload images that can be viewed through the front-end. User can by choice can submit a form with thier feeback, the submission forms are then sent to the business owners via eamil to review. 
+
  
 # Competencies 
 J.F 1.6: Shows curiosity and tenaity to the business context in which the solution will be used to improve methods and maximize performance. 
@@ -21,7 +23,6 @@ J.F 3.3: Understands how to develop effective user interfaces.
 
 
 # Technologies 
- * JavaScript
  * HTML
  * CSS 
  * Python - SQLAlchemy
